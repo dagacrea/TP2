@@ -1,0 +1,73 @@
+body {
+  background: #6a6868;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  text-align: center;
+}
+
+#nombre {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  width: 200px;
+  margin-top: 20px;  
+  margin: auto;
+  color: black;
+}
+
+#apellido {
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: white;
+  color:black;
+
+
+}
+#edad {
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: white;
+  color:black;
+
+}
+
+#altura {
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: white;
+  color:black;
+
+
+}
+#email {
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: white;
+  color:black;
+
+
+}
+
+
+#mensaje {
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+
+}
